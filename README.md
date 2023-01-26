@@ -1,2 +1,4 @@
-# AgricultureSite
-## A Mvc .Net Core Project with using SQL.
+
+### Platforms Used
+- Visual Studio 2019
+- SQL Server 2018
