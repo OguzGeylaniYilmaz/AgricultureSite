@@ -6,6 +6,7 @@
 - LINQ
 - Bootstrap
 - Javascript
+- Identity, Authorization, Authentication
 
 
 ### Platforms Used
